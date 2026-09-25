@@ -1,0 +1,15 @@
+This dataset contains salary data vs years of experience.
+Each row represents one employee.
+We use:
+- YearsExperience as the input feature (X)
+- Salary as the target output (y)
+Shape: (30, 3)
+Columns: ['Unnamed: 0', 'YearsExperience', 'Salary']
+   Unnamed: 0  YearsExperience   Salary
+0           0              1.2  39344.0
+1           1              1.4  46206.0
+2           2              1.6  37732.0
+3           3              2.1  43526.0
+4           4              2.3  39892.0
+Correlation: 0.9782416184887599
+Predicted salary for 5 years experience: 72098.01557379859
